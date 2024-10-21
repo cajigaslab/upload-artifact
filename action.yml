@@ -1,0 +1,6 @@
+name: 'Upload Artifact'
+description: 'Upload Artifact'
+runs:
+  using: "composite"
+  steps:
+    - run: env
